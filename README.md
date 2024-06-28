@@ -13,11 +13,11 @@
 # Project
 <div>
     <!-- Portfolio -->
-    <a href="https://next-profile-git-main-kimjunbeoms-projects.vercel.app">
+    <a target="_blank" href="https://next-profile-git-main-kimjunbeoms-projects.vercel.app">
         <img src="https://img.shields.io/badge/Portfolio-4285F4.svg?style=for-the-badge&logo=Files&logoColor=FFFFFF" />
     </a>
     <!-- GAREN.GG -->
-    <a href="https://lol-api-git-main-kimjunbeoms-projects.vercel.app">
+    <a target="_blank" href="https://lol-api-git-main-kimjunbeoms-projects.vercel.app">
         <img src="https://img.shields.io/badge/GAREN.GG-C28F2C.svg?style=for-the-badge&logo=LeagueofLegends&logoColor=FFFFFF" />
     </a>
     <br>
