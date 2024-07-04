@@ -74,4 +74,4 @@
     <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=FFFFFF" />
 </div>
 <br>
-[![Junbeom's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsqja1049&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
+[![Junbeom's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsqja1049&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)]
