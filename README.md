@@ -44,6 +44,8 @@
     <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=FFFFFF" />
     <!-- React -->
     <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=000000" />
+    <!-- Redux -->
+    <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=FFFFFF" />
     <!-- TailwindCSS -->
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=TailwindCSS&logoColor=FFFFFF" />
     <!-- Next.js -->
