@@ -36,12 +36,6 @@
     <!-- Dart -->
     <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=FFFFFF" />
     <br>
-    <!-- jQuery -->
-    <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=FFFFFF" />
-    <!-- Node.js -->
-    <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=Node.js&logoColor=FFFFFF" />
-    <!-- npm -->
-    <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=FFFFFF" />
     <!-- React -->
     <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=000000" />
     <!-- Redux -->
@@ -61,15 +55,9 @@
     <img src="https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=Confluence&logoColor=FFFFFF" />
     <!-- Swagger -->
     <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=000000" />
-    <!-- Postman -->
-    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=FFFFFF" />
     <br>
-    <!-- AWS -->
-    <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=AmazonWebServices&logoColor=FFFFFF" />
     <!-- Firebase -->
     <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=FFFFFF" />
-    <!-- MySQL -->
-    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" />
     <!-- GitHub -->
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=FFFFFF" />
     <!-- Vercel -->
